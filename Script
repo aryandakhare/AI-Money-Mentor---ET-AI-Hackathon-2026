@@ -1,0 +1,19 @@
+bash
+
+cp -r /home/claude/* /mnt/user-data/outputs/ && ls -lah /mnt/user-data/outputs/
+Output
+
+total 109K
+drwxr-xr-x 1  999 root    0 Mar 28 20:59 .
+drwxr-xr-x 5 root root 4.0K Mar 28 20:54 ..
+-rw-r--r-- 1  999 root  17K Mar 28 20:59 ARCHITECTURE.md
+-rw-r--r-- 1  999 root  509 Mar 28 20:59 Dockerfile
+-rw-r--r-- 1  999 root  14K Mar 28 20:59 IMPACT_MODEL.md
+-rw-r--r-- 1  999 root  19K Mar 28 20:59 README.md
+-rw-r--r-- 1  999 root  13K Mar 28 20:59 SUBMISSION.md
+-rw-r--r-- 1  999 root  16K Mar 28 20:59 app.py
+-rw-r--r-- 1  999 root  15K Mar 28 20:59 frontend.jsx
+-rw-r--r-- 1  999 root  766 Mar 28 20:59 package.json
+-rw-r--r-- 1  999 root  104 Mar 28 20:59 requirements.txt
+-rw-r--r-- 1  999 root 9.6K Mar 28 20:59 styles.css
+Done
