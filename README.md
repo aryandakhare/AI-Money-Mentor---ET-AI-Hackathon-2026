@@ -625,7 +625,7 @@ npm start
 
 **Team Lead:** Aryan Dakhare (BT230009DS, JDCOEM Nagpur)
 **GitHub:** @aryandakhare
-**Email:** aryan.dakhare@jdcoem.edu.in
+**Email:** dakharearyan863@gmail.com
 
 ---
 
